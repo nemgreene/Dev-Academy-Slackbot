@@ -24,7 +24,7 @@
     "express": "^4.17.1",
     "google-spreadsheet": "^3.0.11",
     "heroku-self-ping": "^2.0.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "nodemon": "^2.0.3",
     "slackbots": "^1.2.0"
   }
